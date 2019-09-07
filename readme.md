@@ -1,6 +1,6 @@
-Az önéletrajtom / válogatás a projektjeim közül. 
+Az önéletrajzom / válogatás a projektjeim közül. 
 
-Legfrissebb változat [letöltése itt](cv.pdf).
+Legfrissebb változat [**letöltése itt**](cv.pdf).
 
 A .htm változat nem terjesztésre szánt, ezt alakítom át pdf-é (`./render.sh` -val).
 
